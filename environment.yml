@@ -1,0 +1,7 @@
+name: my_environment
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib
+  - seaborn
