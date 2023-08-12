@@ -25,4 +25,4 @@ jobs:
         source activate my_environment
     - name: Run Python script
       run: |
-        python script_name.py
+        python chart.py
